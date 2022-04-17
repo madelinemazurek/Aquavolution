@@ -1,6 +1,9 @@
 # Aquavolution
 Aquavolution is a browser-based survival/adventure 2D game made with Unity.
 
+## How to Play
+This game is open for anyone who want to fork, clone, and even contribute to our project. The unity files can be run on Unity version 2020.3.21f1. However, for easy access our game can also be played at the link here: https://aquavolution.itch.io/play
+
 ![image](https://user-images.githubusercontent.com/72108920/162872020-a300ff33-9259-48aa-84c8-00b282790dc4.png)
 
 ## Inspiration
@@ -18,9 +21,6 @@ This game was designed an implemented by a group of 6 developers, over the cours
 
 ## What’s next for Aquavolution
 Further development of this game may include things such as expansion to multiplayer, additional map designs, and hopefully the addition of added advertisement revenue for the purposes of donating to ocean cleanup projects.
-
-## How to Play
-This game is open for anyone who want to fork, clone, and even contribute to our project. The unity files can be run on Unity version 2020.3.21f1. However, for easy access our game can also be played at the link here: https://aquavolution.itch.io/play
 
 #### List of Contributors
 - PM Elgiz Abbasov @elgizabbasov
